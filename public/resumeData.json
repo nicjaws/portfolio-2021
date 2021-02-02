@@ -1,46 +1,37 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Nicolas Corbalán",
+    "occupation": "Frontend Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "I am a junior full stack developer with experience in HTML, CSS, React (Javascript), React Native, Express JS, GraphQL, Firebase, Ruby on Rails, and UI/UX with Figma.",
+    
+    "contactmessage": "If you need help with your own project, I would be happy to offer my programming services. Please reach out by sending me an email to nicolascorbalan@gmail.com",
+    "email": "nicolascorbalan@gmail.com",
+    "phone": "+34 686096838",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Camino de Ronda",
+      "city": "Granada",
+      "state": "Andalusia",
+      "zip": "18004"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://github.com/nicjaws?tab=repositories",
+    "resumedownload": "https://gitconnected.com/nicjaws/resume",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/nicolascorbalan",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/nicjaws",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "instagram",
+        "url": "https://www.instagram.com/nicjaws/",
+        "className": "fa fa-instagram"
       }
     ]
   },
@@ -48,28 +39,60 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of Granada",
+        "degree": "Bachelor's Degree, Environmental Engineer & MBA",
+        "graduated": "June 2007",
+        "description": "Awarded with the best student´s scholarship in Spain (Talentia). "
+      },
+      {
+        "school": "University of Harvard",
+        "degree": "CS50 Computer Science",
+        "graduated": "May 2020",
+        "description": "Several projects in HTML,CSS, Python, C++, Javascript "
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Plilend Berlin",
+        "title": "Software Developer and Community Manager",
+        "years": "Oct 2016 - Oct 2017",
+        "description": "Helping to build the startup website and creating a community of followers "
+      },
+      {
+        "company": "LiveBird Berlin",
+        "title": "Software Developer",
+        "years": "Apr 2018 - Oct 2018",
+        "description": "Building the startup website"
+      },
+      {
+        "company": "CjNetten Spain",
+        "title": "Freelance Wordpress Developer",
+        "years": "Apr 2019 - currently",
+        "description": "Diverse projects"
+      },
+      {
+        "company": "Upwork & Fiverr",
+        "title": "Freelance Developer",
+        "years": "Aug 2020 - currently",
+        "description": "Diverse projects"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "React Native",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "CSS",
+        "level": "70%"
       },
       {
         "name": "Git",
@@ -77,45 +100,55 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "50%"
       },
       {
         "name": "Web Development",
         "level": "95%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Tesla app Clone (React Native JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "tesla-react-native.png",
+        "url": "https://github.com/nicjaws/react-native-tesla"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Google Keep Clone (React JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "keep.png",
+        "url": "https://github.com/nicjaws/googleKeepClone"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Amazon Clone (React JS)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "amazon-clone.png",
+        "url": "https://github.com/nicjaws/amazon-clone"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix-clone.png",
+        "url": "https://github.com/nicjaws/netflix-clone"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Nico is absolutely excellent, he helped me a lot with my Startup project website",
+        "user": "Tal Deboh"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Always do a great job with all the projects I send to him from my web Developer design Startup!",
+        "user": "Christian Netten"
       }
     ]
   }
