@@ -221,7 +221,7 @@ ul#nav li.current a {
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background: #01ac90;
 }
 #about .download .button:hover {
    background: #fff;
