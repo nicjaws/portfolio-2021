@@ -65,11 +65,11 @@ header .banner-text h1 {
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #f96969;
+   font: 19px/2em 'librebaskerville-regular', serif;
+   color: #07f7cf;
    margin: 0 auto;
-   width: 70%;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
+   width: 80%;
+   text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
@@ -179,7 +179,9 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a {
+   color: #01ac90;
+}
 
 
 /* ------------------------------------------------------------------ */
@@ -304,7 +306,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #f96969;
+   color: #01ac90;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -427,7 +429,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #01ac90;
 }
 
 /* Portfolio Content */
@@ -868,7 +870,7 @@ call-to-action .button {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color:#fff;
-   background: #0D0D0D;
+   background: #01ac90;
 	border: none;
    cursor: pointer;
    height: auto;
@@ -939,7 +941,10 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
+footer a,
+footer a:visited {
+   color: #11ABB0;
+}
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
@@ -971,13 +976,14 @@ footer .social-links {
    margin: 18px 0 30px 0;
    padding: 0;
    font-size: 30px;
+   
 }
 footer .social-links li {
     display: inline-block;
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #11ABB0;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
@@ -1008,4 +1014,6 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover {
+   background-color: #01ac90;
+}
