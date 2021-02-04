@@ -115,6 +115,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix-clone.png",
+        "url": "https://netflix-clone-f2f48.web.app"
+      },
+      {
         "title": "Tesla app Clone (React Native JS)",
         "category": "",
         "image": "tesla-react-native.png",
@@ -131,12 +137,6 @@
         "category": "",
         "image": "amazon-clone.png",
         "url": "https://github.com/nicjaws/amazon-clone"
-      },
-      {
-        "title": "Netflix Clone (React JS)",
-        "category": "",
-        "image": "netflix-clone.png",
-        "url": "https://netflix-clone-f2f48.web.app"
       }
     ]
   },
