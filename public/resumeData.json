@@ -107,6 +107,10 @@
         "level": "95%"
       },
       {
+        "name": "GraphQL",
+        "level": "30%"
+      },
+      {
         "name": "Wordpress",
         "level": "70%"
       }
@@ -137,6 +141,12 @@
         "category": "",
         "image": "amazon-clone.png",
         "url": "https://github.com/nicjaws/amazon-clone"
+      },
+      {
+        "title": "Responsive Website HTML-SASS",
+        "category": "",
+        "image": "responsive1.png",
+        "url": "https://github.com/nicjaws/html-sass"
       }
     ]
   },
