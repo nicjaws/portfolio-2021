@@ -157,6 +157,12 @@
         "category": "",
         "image": "figma1.png",
         "url": "https://www.figma.com/file/wMIi8qIc9ih6Ru8cxpwP9M/NicoDesign?node-id=0%3A1"
+      },
+      {
+        "title": "Landing Page in HTML / SCSS",
+        "category": "",
+        "image": "sass_example.png",
+        "url": "https://github.com/nicjaws/landing-HTML-SASS/blob/main/index.html"
       }
     ]
   },
