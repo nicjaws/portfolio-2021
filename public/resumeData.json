@@ -163,7 +163,15 @@
         "category": "",
         "image": "sass_example.png",
         "url": "https://github.com/nicjaws/landing-HTML-SASS/blob/main/index.html"
+      },
+      {
+        "title": "Landing Page in HTML / SASS",
+        "category": "",
+        "image": "banco1.png",
+        "url": " https://github.com/nicjaws/html-scss-javascript"
       }
+
+     
     ]
   },
   "testimonials": {
